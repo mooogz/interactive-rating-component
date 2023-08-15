@@ -87,6 +87,11 @@ button:hover {
     color: white;
 }
 
+button:focus {
+    background-color: var(--orange);
+    color: white;
+}
+
 .btn-submit {
     background: var(--orange);
     text-align: center;
